@@ -46,6 +46,10 @@ body {
     align-items: center;
 }
 
+.between {
+    font-weight: bold;
+}
+
 .game-title {
     text-align: center;
     font-size: 3.5rem;
@@ -64,7 +68,7 @@ body {
     box-shadow: 0 2rem 2rem rgba(0, 0, 0, 0.1);
 }
 
-.game-guess-sceen {
+.game-guess-screen {
     display: flex;
     justify-content: space-between;
 }
